@@ -1,0 +1,11 @@
+{
+  "jspm": {
+    "name": "test",
+    "dependencies": {
+      "aurelia-bootstrapper": "^0.9.2",
+      "aurelia-http-client": "^0.4.3",
+      "bootstrap": "^3.3.2",
+      "font-awesome": "^4.3.0"
+    }
+  }
+}
